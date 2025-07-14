@@ -14,4 +14,4 @@ Analog pin 5 for the potentiometer.
 
 All digital pins uses a 10k pull-up resistor before connecting to the corresponding input.
 
-This project can also be used with Valeton GP-200 or GP-5 as the MIDI messages are almost the same, requring a smal modification to the code regarding the MIDI CC numbers.
+This project can also be used with Valeton GP-200 or GP-5 as the MIDI messages are almost the same, requiring  a small modification to the code regarding the MIDI CC numbers.
